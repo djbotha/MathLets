@@ -16,6 +16,6 @@ Some of these are:
 - [ ] A class to calculate the [Knapsack Problem's](https://en.wikipedia.org/wiki/Knapsack_problem) answer
 - [ ] A class to calculate the power of an `integer i` to the power of another `integer n`.
 
-These are mostly applets I have written/will be writing during the course of my 3 year Bachelor's degree in Computer Science at the [University of Stellenbosch](https://en.wikipedia.org/wiki/Stellenbosch_University).
+These are mostly applets I have written/will be writing during the course of my three year Bachelor's degree in Computer Science at the [University of Stellenbosch](https://en.wikipedia.org/wiki/Stellenbosch_University).
 
 If you have any questions feel free to contact me per email at [botha.daniel1@gmail.com](mailto:botha.daniel1@gmail.com)
