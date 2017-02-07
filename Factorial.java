@@ -14,12 +14,12 @@ public class Factorial{
   }
 
   // n choose k function
-  public static int choose(int n, int k){
+  public static long choose(long n, long k){
     return (getFact(n)/(getFact(k)*getFact(n-k)));
   }
 
   // get the factorial of an integer n
-  public static int getFact(int n){
+  public static long getFact(long n){
     if (n>1)
       return n*getFact(n-1);
     else
